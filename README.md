@@ -14,7 +14,7 @@ We are passionate about robotics and automation, focusing on developing intellig
 <table>
   <tr>
     <td>
-      <img src="robot.jpg" width="400" alt="MForge Robot">
+      <img src="robot.jpg" width="600" alt="MForge Robot">
     </td>
     <td>
       <b>Meet our robot!</b><br>
