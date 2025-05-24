@@ -1,4 +1,3 @@
-# MForge Robot Control System
 
 ## 🏭 About MForge
 
@@ -14,7 +13,7 @@ We are passionate about robotics and automation, focusing on developing intellig
 <table>
   <tr>
     <td>
-      <img src="robot.jpg" width="800" alt="MForge Robot">
+      <img src="robot.jpg" width="900" alt="MForge Robot">
     </td>
     <td>
       <b>Meet our robot!</b><br>
