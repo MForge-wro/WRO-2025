@@ -1,6 +1,6 @@
 # Raspberry Pi Robot Simulator
 
-A comprehensive simulation environment for testing and developing Raspberry Pi robot control systems. This simulator provides a 3D visualization of the robot's environment, camera simulation, and control system testing capabilities.
+We made a simulation environment for testing and developing Raspberry Pi robot control systems so anyone can test the control algorithm before fiddling with the hardware. This simulator provides a 3D visualization of the robot's environment, camera simulation, and control system testing capabilities.
 
 ## 🚀 Features
 
