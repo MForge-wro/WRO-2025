@@ -170,5 +170,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📞 Contact
 
 For questions and collaboration:
-- Email: mforge.robotics@gmail.com
 - GitHub: [MForge Robotics](https://github.com/MForge) 
