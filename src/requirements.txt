@@ -1,0 +1,8 @@
+opencv-python
+numpy
+pygame
+Pillow
+RPi.GPIO
+picamera2
+numpy-stl
+PyOpenGL
