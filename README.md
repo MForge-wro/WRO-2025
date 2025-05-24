@@ -5,13 +5,23 @@
 MForge is a robotics team from Zenica, Bosnia and Herzegovina, combining mechanical engineering expertise with innovative software solutions. Our name represents our roots - "MF" from Mechanical Faculty and "Forge" from our steel city Zenica, symbolizing our commitment to crafting robust and efficient robotic systems.
 
 Our team consists of:
-- **Amil**: Lead Software Engineer
-- **Bakir**: Mechanical Design Specialist
-- **Amar**: Control Systems Engineer
+- **Amil**: Lead Software Future Engineer
+- **Bakir**: Mechanical Design Future Engineer
+- **Amar**: Control Systems Future Engineer
 
 We are passionate about robotics and automation, focusing on developing intelligent systems that combine mechanical precision with advanced software control. Our work on the Raspberry Pi Robot Control System represents our commitment to creating practical, efficient, and innovative solutions in the field of autonomous robotics.
 
-<img src="robot.jpg" width="400" alt="MForge Robot">
+<table>
+  <tr>
+    <td>
+      <img src="robot.jpg" width="300" alt="MForge Robot">
+    </td>
+    <td>
+      <b>Meet our robot!</b><br>
+      This is the autonomous vehicle developed by MForge. It features a robust mechanical chassis, custom electronics, and a vision system powered by Raspberry Pi. Our design focuses on reliability, modularity, and real-world performance, making it ideal for research and competition in autonomous robotics.
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Introduction
 
